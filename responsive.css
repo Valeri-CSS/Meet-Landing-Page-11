@@ -1,0 +1,163 @@
+/* Tablet */
+
+@media screen and (min-width:768px) {
+    .group {
+        margin: 0px 222px 24px;
+        font-size: 48px;
+    }
+
+    .herotablet {
+        width: 107%;
+        margin: 0px 0px 45px -26px;
+    }
+
+
+    .meet {
+        margin: 0px 172px 32px;
+    }
+
+    .what {
+        margin: -58px 0px -3px 55%;
+    }
+
+    .download {
+        margin: 0px 0px 0px 27%;
+    }
+
+    .images>img {
+        width: 164px;
+    }
+
+    .text {
+        margin: 48px 14px 0px;
+    }
+
+    .smarter {
+        font-size: 40px;
+        margin: 24px 21% 32px;
+        width: 424px;
+    }
+
+    .send {
+        width: 578px;
+    }
+
+    .text2 {
+        background-image: url(./assets/tablet/image-footer.jpg);
+    }
+
+    .more {
+        font-size: 40px;
+        width: 510px;
+        margin: 64px auto 32px;
+    }
+
+    .HD {
+        width: 574px;
+        margin: 0px auto 32px;
+    }
+}
+
+@media screen and (min-width:1024px) {
+
+    .herotablet {
+        display: none;
+    }
+
+    .heroleft {
+        width: 28%;
+        display: inline;
+        margin: 0px -2.3%;
+    }
+
+    .heroright {
+        width: 28%;
+        display: inline;
+        margin: -793px 0px 0px 75%;
+    }
+
+    .group {
+        font-size: 64px;
+        margin: -20% 34% 5%;
+        line-height: 64px;
+    }
+
+    .meet {
+        font-size: 18px;
+        margin: -40px 31% 3%;
+    }
+
+    .download:hover {
+        cursor: pointer;
+        background-color: #71C0D4;
+    }
+
+    .download {
+        position: absolute;
+        right: 50%;
+    }
+
+    .what:hover{
+        cursor:pointer;
+        background-color: #B18BDD;
+    }
+
+    .what {
+        margin: 0px 0px 45px 53%;
+    }
+
+    .images {
+        display: none;
+    }
+
+    .desktopimages {
+        display: flex;
+        justify-content: center;
+        margin: 0 auto;
+        gap: 30px;
+
+    }
+
+    .desktopimages>img {
+        Width: 18%;
+        Height: 242px;
+        border-radius: 15px;
+    }
+
+    .send {
+        font-size: 18px;
+        width: 518px;
+    }
+
+    .more {
+        position: absolute;
+        TOP: 56%;
+        left: 11%;
+        text-align: left;
+        margin: 0px;
+    }
+
+    .text2 {
+        background-image: url(./assets/desktop/image-footer.jpg)
+    }
+
+    .HD {
+        width: 24%;
+        text-align: left;
+        position: absolute;
+        left: 45%;
+        top: 54%;
+    }
+
+    .download2:hover{
+        cursor:pointer;
+        background-color:#B18BDD;
+    }
+
+    .download2 {
+        position: absolute;
+        right: 12%;
+        top: 57%;
+    }
+
+}
