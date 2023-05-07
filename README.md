@@ -27,9 +27,11 @@ Users should be able to:
 
 Desktop 
 
-![Screen Desktop]![Screenshot - Desktop](https://user-images.githubusercontent.com/116646278/236694827-02c6153b-a364-446c-8e05-a3469e6ea4b3.PNG)
+![Screenshot - Desktop](https://user-images.githubusercontent.com/116646278/236694827-02c6153b-a364-446c-8e05-a3469e6ea4b3.PNG)
 
 Tablet and Mobile
+
+
 ![Screenshot - Tablet](https://user-images.githubusercontent.com/116646278/236700898-fb29bea6-a8de-46f0-ab7d-0403f296fa64.PNG)
 ![Screenshot - Mobile](https://user-images.githubusercontent.com/116646278/236700904-47f43a03-f976-4f35-945e-68693b1da9e9.PNG)
 
